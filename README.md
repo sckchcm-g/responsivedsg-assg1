@@ -12,3 +12,5 @@ The font used: Roboto
 
 
 If you need more icons you can visit [flaticons.com](https://www.flaticon.com/)
+
+#### My deployed [output](https://responsivedsg-assg1.vercel.app/)  
